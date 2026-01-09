@@ -14,7 +14,10 @@
 
 ## 🚀 About Me
 
-Aspiring Software Engineer from Swami Vivekananda University, passionate about building scalable web applications and solving complex problems. Currently seeking **Full Stack Developer opportunities and Devops Engineer**.
+I love building complex systems and deploying them with precision.  
+Architecture design and infrastructure automation excite me the most.  
+For me, **backend development means love** — it’s where I find creativity, logic, and scalability coming together.
+. Currently seeking **Full Stack Developer opportunities and Devops Engineer**.
 
 ```javascript
 const rahul = {
