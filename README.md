@@ -45,14 +45,9 @@ const rahul = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumar6777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumar6777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkumar6777&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Rahulkumar6777&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rahulkumar6777&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkumar6777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
