@@ -48,11 +48,11 @@ const rahul = {
 
 ## 📊 GitHub Analytics
 <div align="center">
-![](https://github-readme-stats.vercel.app/api?username=Rahulkumar6777&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rahulkumar6777&theme=dark&hide_border=false)<br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahulkumar6777&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rahulkumar6777&theme=dark&hide_border=false" height="180em"/>
   </div>
   <div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkumar6777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulkumar6777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 ---
 
