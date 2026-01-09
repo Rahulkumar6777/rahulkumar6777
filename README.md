@@ -43,15 +43,6 @@ const rahul = {
 
 ---
 
-## 💻 Featured Projects
-
-
-### 🎨 [Portfolio Website](https://rahul.cloudcoderhub.in)
-Personal portfolio showcasing projects with smooth animations and contact integration
-> **Stack:** React • Tailwind CSS
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
